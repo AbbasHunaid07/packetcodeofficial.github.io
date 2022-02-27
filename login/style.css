@@ -1,0 +1,76 @@
+body
+{
+
+margin: 0;
+padding: 0;
+
+font-family: sans-serif; 
+background-image: url(background.jpg); 
+background-size: cover; 
+background-position: center;
+}
+.sign-up-form{
+
+width: 400px; 
+box-shadow: 03px 0 rgba(0,0,0,0.3); 
+background: #fff; 
+padding: 20px; 
+padding-right: 20px;
+margin: 8% auto 0; 
+text-align: center;
+justify-content: center;
+}
+.sign-up-form hl{
+    color: #1c8adb; margin-bottom: 30px;
+}
+.input-box{
+
+border-radius: 20px; 
+padding: 10px; 
+margin: 10px -10px;
+width: 90%; 
+border: 1px solid #999; 
+outline: none;
+}
+.button{
+    color: #fff; 
+    width: 100%;
+    border: none; cursor: pointer;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    outline: none;
+}
+.signup-btn{
+    background-color: #1c8adb;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: white;
+}
+.twitter-btn{
+    background-color: #21afde;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width:80px;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+img{
+    width: 70px;
+    margin-top: -50px;
+}
